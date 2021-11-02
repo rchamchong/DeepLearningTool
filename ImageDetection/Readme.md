@@ -1,1 +1,1 @@
-download file ไปใช้งาน
+download zip file ไปใช้งาน
